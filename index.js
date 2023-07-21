@@ -1,5 +1,4 @@
-document.body.style = 'border:3px solid red;';
-console.log('extension running');
+// console.log('extension running');
 
 const updateTitle = (num) => {
   const title = document.title;

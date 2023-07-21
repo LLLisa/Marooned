@@ -3,16 +3,16 @@
     "name": "Marooned",
     "version": "1.0",
 
-    "description": "Adds some quality-of-life improvements  to cohost.org",
+    "description": "Adds some minor quality-of-life improvements to cohost.org",
 
     "icons": {
-        "48": "icons/border-48.png"
+        "48": "icons/marooned-48.png"
     },
 
     "content_scripts": [
         {
             "matches": ["*://*.cohost.org/*"],
-            "js": ["main.js"]
+            "js": ["index.js"]
         }
     ]
 }
