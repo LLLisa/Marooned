@@ -12,7 +12,7 @@
     "content_scripts": [
         {
             "matches": ["*://*.cohost.org/*"],
-            "js": ["borderify.js"]
+            "js": ["main.js"]
         }
     ]
 }
