@@ -3,7 +3,7 @@
     "name": "Marooned",
     "version": "1.0",
 
-    "description": "Adds some minor quality-of-life improvements to cohost.org",
+    "description": "A custom UI suite for cohost.org",
 
     "icons": {
         "48": "icons/marooned-48.png"
